@@ -26,7 +26,12 @@
 ### 🔝 Top Contributed Repo
 ## 📈 Contribution Activity
 
-![Aditya's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Adigurav02&theme=react-dark&bg_color=0D1117&color=00F7FF&line=00F7FF&point=FFFFFF&area=true&hide_border=true)
+## ⚡ Productivity Dashboard
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Adigurav02&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=Adigurav02&theme=tokyonight&hide_border=true" />
+</p>
 
 ## [Snake4Readme](https://github.com/PushkraJ99/Snake4Readme)
 
