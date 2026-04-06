@@ -24,6 +24,7 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=Adigurav02&icon=0&color=0)](https://visitcount.itsvg.in)
 
+![GitHub Streak](https://streak-stats.demolab.com?user=Adigurav02&theme=tokyonight)
 
 
 ## [Snake4Readme](https://github.com/PushkraJ99/Snake4Readme)
