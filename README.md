@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:1A1A2E&height=200&section=header&text=Aditya%20Gurav&fontSize=40&fontColor=ffffff" />
+</p>
+
 # 💫 About Me:
 👾 Bug Hunter | Security Researcher | Graphic Designer | Student<br>⚡ Learning App , API , Network Pentesting
 
@@ -26,9 +30,6 @@
 ![Trophies](https://github-profile-trophy.vercel.app/?username=Adigurav02&theme=tokyonight&no-frame=true&margin-w=10)
 
 ### 🔝 Top Contributed Repo
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:1A1A2E&height=200&section=header&text=Aditya%20Gurav&fontSize=40&fontColor=ffffff" />
-</p>
 
 ## 📈 Contribution Activity
 
