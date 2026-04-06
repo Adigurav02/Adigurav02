@@ -11,6 +11,8 @@
 # 📊 GitHub Stats:
 ![GitHub Streak](https://streak-stats.demolab.com?user=Adigurav02&theme=tokyonight)
 
+![Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Adigurav02&theme=tokyonight)
+
 ## Profile Visitors
 ![Profile Views](https://komarev.com/ghpvc/?username=Adigurav02&color=blue&style=flat)
 
@@ -28,7 +30,6 @@
 
 ## 📊 Developer Activity Summary
 
-![Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Adigurav02&theme=tokyonight)
 
 ## [Snake4Readme](https://github.com/PushkraJ99/Snake4Readme)
 
