@@ -32,8 +32,7 @@
 ## 🏆 GitHub Trophies
 ## 🏆 Achievements
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=Adigurav02&theme=tokyonight&no-frame=true&margin-w=15)
-
+![Trophies](https://github-profile-trophy.vercel.app/?username=Adigurav02&theme=onedark)
 
 ### 🔝 Top Contributed Repo
 
