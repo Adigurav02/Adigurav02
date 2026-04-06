@@ -17,6 +17,9 @@
 
 ![Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Adigurav02&theme=tokyonight)>
 
+## 📈 Contribution Activity
+![Aditya's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Adigurav02&theme=react-dark&bg_color=0D1117&color=00F7FF&line=00F7FF&point=FFFFFF&area=true&hide_border=true)
+
 ## Profile Visitors
 ![Profile Views](https://komarev.com/ghpvc/?username=Adigurav02&color=blue&style=flat)
 
@@ -31,9 +34,6 @@
 
 ### 🔝 Top Contributed Repo
 
-## 📈 Contribution Activity
-
-![Aditya's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Adigurav02&theme=react-dark&bg_color=0D1117&color=00F7FF&line=00F7FF&point=FFFFFF&area=true&hide_border=true)
 
 ## Snake Game
 
