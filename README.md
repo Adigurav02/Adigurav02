@@ -36,8 +36,9 @@
 
 ## [Snake4Readme](https://github.com/PushkraJ99/Snake4Readme)
 
-<p align="center">
-<img src="https://github.com/PushkraJ99/Snake4Readme/blob/main/Snake4Readme/grid-snake.svg">
-</p>
+#<p align="center">
+![Snake animation](https://github.com/Adigurav02/Adigurav02/blob/output/github-contribution-grid-snake.svg)
+#<img src="https://github.com/PushkraJ99/Snake4Readme/blob/main/Snake4Readme/grid-snake.svg">
+#</p>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
