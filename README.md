@@ -100,4 +100,10 @@
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
 </p>
 
+
+## ⏱️ Coding Time
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Adigurav02&label=Hours%20Coded&color=blue&style=for-the-badge" />
+</p>
 ---
