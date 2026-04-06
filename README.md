@@ -94,8 +94,9 @@
 ## 🐍 Contribution Snake
 
 <p align="center">
-<img src="https://github.com/Adigurav02/Adigurav02/blob/output/github-contribution-grid-snake.svg" />
+<img src="https://github.com/PushkraJ99/Snake4Readme/blob/main/Snake4Readme/grid-snake.svg">
 </p>
+
 
 ---
 
