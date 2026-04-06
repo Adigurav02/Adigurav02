@@ -11,12 +11,8 @@
 # 📊 GitHub Stats:
 ![GitHub Streak](https://streak-stats.demolab.com?user=Adigurav02&theme=tokyonight)
 
-<p align="center">
-  <img 
-    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Adigurav02&theme=tokyonight" 
-    style="border: 2px solid white; border-radius: 10px;"
-  />
-</p>
+![Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Adigurav02&theme=tokyonight)>
+
 ## Profile Visitors
 ![Profile Views](https://komarev.com/ghpvc/?username=Adigurav02&color=blue&style=flat)
 
@@ -35,7 +31,7 @@
 ## 📊 Developer Activity Summary
 
 
-## [Snake4Readme](https://github.com/PushkraJ99/Snake4Readme)
+## Snake Game
 
 <p align="center">
 <img src="https://github.com/PushkraJ99/Snake4Readme/blob/main/Snake4Readme/grid-snake.svg">
