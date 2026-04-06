@@ -1,6 +1,7 @@
 # 💫 About Me:
 👾 Bug Hunter | Security Researcher | Graphic Designer | Student<br>⚡ Learning App , API , Network Pentesting
 
+![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00F7FF&size=25&center=true&vCenter=true&width=700&lines=%F0%9F%91%BE+Bug+Hunter+%7C+Security+Researcher+%7C+Graphic+Designer+%7C+Student;%E2%9A%A1+Learning+App%2C+API%2C+Network+Pentesting)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aditya-gurav-71b946367/) 
