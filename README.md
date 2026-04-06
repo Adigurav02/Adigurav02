@@ -3,12 +3,22 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=24&center=true&vCenter=true&width=900&lines=%F0%9F%91%BE+Bug+Hunter+%7C+Security+Researcher+%7C+Graphic+Designer+%7C+Student;%E2%9A%A1+Learning+App%2C+API+%2C+Network+Pentesting" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=24&center=true&vCenter=true&width=900&lines=%F0%9F%91%BE+Bug+Hunter;%F0%9F%94%90+Security+Researcher;%F0%9F%8E%A8+Graphic+Designer;%F0%9F%8E%93+Student;%E2%9A%A1+Learning+App%2C+API+%2C+Network+Pentesting" />
 </p>
 
 ---
 
+## 🚀 What I Do
+
+- 🔐 Find vulnerabilities & secure systems  
+- 🤖 Build AI-powered solutions  
+- 📊 Analyze data & patterns  
+- 🎨 Design creative digital content  
+
+---
+
 ## 🌐 Connect With Me
+
 <p align="center">
 <a href="https://linkedin.com/in/aditya-gurav-71b946367/">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" />
@@ -21,6 +31,7 @@
 ---
 
 ## 💻 Tech Stack
+
 <p align="center">
 <img src="https://skillicons.dev/icons?i=python,java,js,ts,react,nodejs,mongodb,mysql,php,html,css,git,linux,figma,photoshop" />
 </p>
@@ -60,6 +71,15 @@
 
 ---
 
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Adigurav02&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Adigurav02&theme=tokyonight" />
+</p>
+
+---
+
 ## 🎯 Skills Overview
 
 <p align="center">
@@ -71,20 +91,13 @@
 
 ---
 
-## 👀 Profile Visitors
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Adigurav02&color=blue&style=flat" />
-</p>
-
----
-
 ## 🐍 Contribution Snake
 
 <p align="center">
-<img src="https://github.com/PushkraJ99/Snake4Readme/blob/main/Snake4Readme/grid-snake.svg">
+<img src="https://github.com/Adigurav02/Adigurav02/blob/output/github-contribution-grid-snake.svg" />
 </p>
 
+---
 
 ## 🌆 3D Contribution Skyline
 
@@ -92,7 +105,7 @@
   <img src="https://skyline.github.com/Adigurav02/2024" />
 </p>
 
-
+---
 
 ## 💡 Random Dev Quote
 
@@ -100,21 +113,12 @@
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
 </p>
 
+---
 
-## ⏱️ Coding Time
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Adigurav02&label=Hours%20Coded&color=blue&style=for-the-badge" />
-</p>
-
-## 📊 GitHub Analytics
+## 👀 Profile Visitors
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Adigurav02&theme=tokyonight" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Adigurav02&theme=tokyonight" />
+  <img src="https://komarev.com/ghpvc/?username=Adigurav02&color=blue&style=flat" />
 </p>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
-
 
 ---
