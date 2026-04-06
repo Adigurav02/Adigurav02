@@ -27,18 +27,14 @@
 ![Trophies](https://github-profile-trophy.vercel.app/?username=Adigurav02&theme=tokyonight&no-frame=true&margin-w=10)
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Adigurav02&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
----
-[![](https://visitcount.itsvg.in/api?id=Adigurav02&icon=0&color=0)](https://visitcount.itsvg.in)
+![Typing SVG](https://readme-typing-svg.herokuapp.com color=00F7FF&size=25&center=true&vCenter=true&width=600&lines=AI%2FML+Engineer;Cybersecurity+Enthusiast;Building+Smart+Systems;Open+to+Opportunities)
 
 
 
 ## [Snake4Readme](https://github.com/PushkraJ99/Snake4Readme)
 
-#<p align="center">
-![Snake animation](https://github.com/Adigurav02/Adigurav02/blob/output/github-contribution-grid-snake.svg)
-#<img src="https://github.com/PushkraJ99/Snake4Readme/blob/main/Snake4Readme/grid-snake.svg">
-#</p>
+<p align="center">
+<img src="https://github.com/PushkraJ99/Snake4Readme/blob/main/Snake4Readme/grid-snake.svg">
+</p>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
