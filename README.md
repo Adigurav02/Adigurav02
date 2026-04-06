@@ -106,4 +106,15 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Adigurav02&label=Hours%20Coded&color=blue&style=for-the-badge" />
 </p>
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Adigurav02&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Adigurav02&theme=tokyonight" />
+</p>
+
+
+
+
 ---
