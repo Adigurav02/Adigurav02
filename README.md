@@ -11,8 +11,12 @@
 # 📊 GitHub Stats:
 ![GitHub Streak](https://streak-stats.demolab.com?user=Adigurav02&theme=tokyonight)
 
-![Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Adigurav02&theme=tokyonight)
-
+<p align="center">
+  <img 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Adigurav02&theme=tokyonight" 
+    style="border: 2px solid white; border-radius: 10px;"
+  />
+</p>
 ## Profile Visitors
 ![Profile Views](https://komarev.com/ghpvc/?username=Adigurav02&color=blue&style=flat)
 
