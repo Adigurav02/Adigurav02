@@ -28,8 +28,7 @@
 ### 🔝 Top Contributed Repo
 ## 📈 Contribution Activity
 
-## 📊 Developer Activity Summary
-
+![Aditya's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Adigurav02&theme=react-dark&bg_color=0D1117&color=00F7FF&line=00F7FF&point=FFFFFF&area=true&hide_border=true)
 
 ## Snake Game
 
