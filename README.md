@@ -30,7 +30,7 @@
 ![AI](https://img.shields.io/badge/AI-Developer-purple)
 
 ## 🏆 GitHub Trophies
-![Trophies](https://github-profile-trophy.vercel.app/?username=Adigurav02&theme=tokyonight&no-frame=true&margin-w=10)
+![Trophies](https://github-profile-trophy.vercel.app/?username=Adigurav02&theme=tokyonight)
 
 ### 🔝 Top Contributed Repo
 
