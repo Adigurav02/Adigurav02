@@ -114,7 +114,7 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Adigurav02&theme=tokyonight" />
 </p>
 
-
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
 
 
 ---
