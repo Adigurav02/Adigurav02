@@ -27,8 +27,7 @@
 ![Trophies](https://github-profile-trophy.vercel.app/?username=Adigurav02&theme=tokyonight&no-frame=true&margin-w=10)
 
 ### 🔝 Top Contributed Repo
-![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00F7FF&size=25&center=true&vCenter=true&width=600&lines=AI%2FML+Engineer;Cybersecurity+Enthusiast;Building+Smart+Systems;Open+to+Opportunities)
-
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Adigurav02&theme=tokyo-night)
 
 
 ## [Snake4Readme](https://github.com/PushkraJ99/Snake4Readme)
