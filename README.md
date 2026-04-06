@@ -26,11 +26,9 @@
 ### 🔝 Top Contributed Repo
 ## 📈 Contribution Activity
 
-## 💻 Coding Insights
+## 📊 Developer Activity Summary
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adigurav02&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+![Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Adigurav02&theme=tokyonight)
 
 ## [Snake4Readme](https://github.com/PushkraJ99/Snake4Readme)
 
