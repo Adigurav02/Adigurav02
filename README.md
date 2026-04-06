@@ -103,9 +103,7 @@
 ## 🌆 3D Contribution Skyline
 
 <p align="center">
-  <a href="https://skyline.github.com/Adigurav02/2024">
-    <img src="https://img.shields.io/badge/View%20My%20GitHub%20Skyline-0A66C2?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Adigurav02&theme=react-dark" />
 </p>
 
 ---
