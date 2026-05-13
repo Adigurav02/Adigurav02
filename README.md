@@ -7,7 +7,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=24&center=true&vCenter=true&width=900&lines=%F0%9F%91%BE+Bug+Hunter;%F0%9F%94%90+Security+Researcher;%F0%9F%8E%A8+Graphic+Designer;%F0%9F%8E%93+Student;%E2%9A%A1+Learning+App%2C+API+%2C+Network+Pentesting" />
 </p>
 
----
+
 
 ## 🚀 What I Do
 
