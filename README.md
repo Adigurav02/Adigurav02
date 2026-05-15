@@ -15,7 +15,12 @@
 - 🤖 Build AI-powered solutions  
 - 📊 Analyze data & patterns  
 - 🎨 Design creative digital content  
-
+- 🧠 Train & optimize Machine Learning models  
+- ⚡ Develop intelligent automation systems  
+- 📈 Build predictive analytics & forecasting tools  
+- 🔍 Create AI solutions for real-time problem solving  
+- ☁️ Deploy scalable AI/ML applications  
+- 🔗 Combine Cybersecurity, AI & Automation  
 ---
 
 ## 🌐 Connect With Me
